@@ -9,7 +9,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/adityamishra30?style=for-the-badge&logo=github&labelColor=0d1117&color=7c3aed)](https://github.com/adityamishra30)
 [![Profile Views](https://komarev.com/ghpvc/?username=adityamishra30&style=for-the-badge&color=7c3aed&labelColor=0d1117)](https://github.com/adityamishra30)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/aditya-mishra-82384b298)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1700%2B-ffa116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/adityamishra30)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1700%2B-ffa116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/adityamishra_30)
 [![CodeChef](https://img.shields.io/badge/CodeChef-2⭐-brown?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117)](https://codechef.com/users/adityamishra30)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:adityame222@gmail.com)
 
