@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aditya%20Narayan%20Mishra&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Lead%20%40%20Team%20DevUp&descSize=16&descAlignY=58&descColor=a78bfa" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI%2FML+Engineer;MERN+%2B+Spring+Boot+%2B+YOLOv8;LeetCode+1700%2B+%7C+CodeChef+2%E2%AD%90+%7C+500%2B+DSA;Lead+%40+Team+DevUp+%7C+B.Tech+CSE+%2727)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI%2FML+Engineer;MERN+%2B+Spring+Boot+%2B+AI/ML;LeetCode+1700%2B+%7C+CodeChef+2%E2%AD%90+%7C+500%2B+DSA;Lead+%40+Team+DevUp+%7C+B.Tech+CSE+%2727)](https://git.io/typing-svg)
 
 <br/>
 
