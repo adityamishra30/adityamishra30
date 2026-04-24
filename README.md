@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aditya%20Narayan%20Mishra&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Lead%20%40%20Team%20DevUp&descSize=16&descAlignY=58&descColor=a78bfa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,100:24243e&height=240&section=header&text=Aditya%20Narayan%20Mishra&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Lead%20%40%20Team%20DevUp&descSize=18&descAlignY=60&descColor=c4b5fd&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI%2FML+Engineer;MERN+%2B+Spring+Boot+%2B+AI/ML;LeetCode+1700%2B+%7C+CodeChef+2%E2%AD%90+%7C+500%2B+DSA;Lead+%40+Team+DevUp+%7C+B.Tech+CSE+%2727)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=🚗+Building+RideAlong+—+Production+Ride+Sharing+App;⚡+MERN+Stack+%7C+Spring+Boot+%7C+Deep+Learning;🏆+LeetCode+1700%2B+%7C+CodeChef+2⭐+%7C+500%2B+DSA+Solved;🎓+B.Tech+CSE+%28AI%2FML%29+%40+KIET+—+2027;🔍+Building+Damage+Vision+AI+with+YOLOv8)](https://git.io/typing-svg)
 
 <br/>
 
@@ -11,35 +13,47 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/aditya-mishra-82384b298)
 [![LeetCode](https://img.shields.io/badge/LeetCode-1700%2B-ffa116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/adityamishra_30)
 [![CodeChef](https://img.shields.io/badge/CodeChef-2⭐-brown?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117)](https://codechef.com/users/adityamishra30)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:adityame222@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:adityame222@gmail.com)
 
 </div>
+
+<br/>
 
 ---
 
 ## 🧑‍💻 About Me
 
-```ts
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+```typescript
 const aditya = {
-  name:       "Aditya Narayan Mishra",
-  location:   "Ghaziabad, Uttar Pradesh, India 🇮🇳",
-  education:  "B.Tech CSE (AI/ML) @ KIET Group of Institutions — 2027",
-  role:       "Lead @ Team DevUp",
-  focus:      ["Full Stack Engineering", "Deep Learning", "System Design"],
-  problemSolving: {
-    leetcode:  "1700+ Rating",
-    codechef:  "2⭐",
-    solved:    "500+ DSA Problems"
+  name       : "Aditya Narayan Mishra",
+  location   : "Ghaziabad, Uttar Pradesh 🇮🇳",
+  education  : "B.Tech CSE (AI/ML) @ KIET — 2027",
+  role       : "Lead @ Team DevUp",
+
+  flagship   : "🚗 RideAlong — Ride Sharing App",
+
+  skills     : ["Full Stack", "Deep Learning", "System Design"],
+
+  dsa        : {
+    leetcode : "1700+ Rating",
+    codechef : "2 ⭐",
+    solved   : "500+ Problems",
   },
-  currentlyExploring: [
-    "Advanced Spring Boot & backend system design",
-    "AI/ML integration in real-world software",
-    "Scalable production-ready architectures"
+
+  exploring  : [
+    "Spring Boot & backend system design",
+    "AI/ML in real-world products",
+    "Scalable production architectures",
   ],
-  lookingFor: "Internships in SWE / Full Stack / AI-driven products",
-  contact:    "adityame222@gmail.com"
+
+  openTo     : "SWE / Full Stack / AI Internships",
+  contact    : "adityame222@gmail.com",
 };
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -47,42 +61,76 @@ const aditya = {
 
 <div align="center">
 
-### 🔷 Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<table>
+<tr>
+<td align="center" width="180"><b>🔷 Languages</b></td>
+<td>
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
 
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+</td>
+</tr>
+<tr>
+<td align="center"><b>🌐 Frontend</b></td>
+<td>
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
-### 🤖 AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFAA?style=for-the-badge&logoColor=black)
+</td>
+</tr>
+<tr>
+<td align="center"><b>⚙️ Backend</b></td>
+<td>
 
-### 🧰 Tools & Platforms
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io)
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>🗄️ Databases</b></td>
+<td>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>🤖 AI / ML</b></td>
+<td>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFAA?style=flat-square&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>🧰 Tools</b></td>
+<td>
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -90,80 +138,114 @@ const aditya = {
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%">
 
-### 🔍 Damage Vision AI
-> Real-time vehicle damage detection using **YOLOv8**
+<td width="50%" valign="top">
 
-- Detects scratches, dents & broken parts from **images, video & live webcam**
-- Achieved **63% precision** on a custom dataset
-- Supports **retraining & fine-tuning** pipelines
-- Applications: **Insurance, vehicle inspection, rental systems**
+### 🚗 RideAlong
+> **Production-grade ride-sharing full-stack application**
 
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFAA?style=flat-square&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+- 📍 Live **location tracking** with Google Maps API
+- ⚡ Real-time driver-rider comms via **Socket.io**
+- 🔐 Secure **JWT authentication** & role-based access
+- 🏗️ Scalable **REST API** with dynamic ride management
+- 🗂️ Clean **MVC architecture** — production-ready codebase
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/adityamishra30)
-
-</td>
-<td width="50%">
-
-### 🚗 Uber Clone
-> Production-grade **ride-sharing** full-stack app
-
-- Live **location tracking** & real-time communication
-- Scalable **backend APIs** with dynamic ride management
-- Secure **JWT-based authentication**
-- Mirrors **production-grade** backend architecture
+<br/>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/adityamishra30)
+<br/>
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityamishra30/RideAlong)
 
 </td>
+
+<td width="50%" valign="top">
+
+### 🔍 Damage Vision AI
+> **Real-time vehicle damage detection using YOLOv8**
+
+- 🎯 Detects scratches, dents & cracks from **images, video & webcam**
+- 📊 Achieved **63% precision** on a custom-labeled dataset
+- 🔁 Supports **retraining & fine-tuning** pipelines
+- 🏢 Use cases: **Insurance, inspection, rental platforms**
+- 🖥️ Clean UI with real-time detection overlay
+
+<br/>
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFAA?style=flat-square&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+<br/>
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityamishra30)
+
+</td>
+
 </tr>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 👥 Employee Management System
-> Clean & efficient **CRUD full-stack** application
+> **Clean & efficient CRUD full-stack application**
 
-- Structured backend with efficient **data handling**
-- Clean, intuitive **UI/UX**
-- Scalable **REST API** design
-- Full **MERN stack** implementation
+- 🗂️ Structured backend with efficient **data handling**
+- 🎨 Clean, intuitive **UI/UX** design
+- 📡 Scalable **REST API** architecture
+- 🔧 Full **MERN stack** implementation
+- 🔒 Secure data operations with validation
+
+<br/>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/adityamishra30)
+<br/>
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityamishra30)
 
 </td>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 💼 Developer Portfolio
-> Personal portfolio showcasing projects & skills
+> **Personal portfolio showcasing projects & skills**
 
-- Fully **responsive** across all devices
-- Live demo & GitHub links for each project
-- Skills, About Me & Contact sections
-- Built with **React + Vite + TailwindCSS**
+- 📱 Fully **responsive** across all devices
+- 🔗 Live demo & GitHub links for every project
+- ⚡ Blazing fast with **Vite** build tooling
+- 🎨 Polished UI built with **TailwindCSS**
+- 🧑 Skills, About, Contact & Projects sections
+
+<br/>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/adityamishra30)
+<br/>
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityamishra30)
 
 </td>
+
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -171,12 +253,13 @@ const aditya = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityamishra30&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamishra30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=adityamishra30&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamishra30&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
-<br/>
+<br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=adityamishra30&theme=dark&hide_border=false" alt="GitHub Streak" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=adityamishra30&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -186,7 +269,7 @@ const aditya = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=adityamishra30&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=adityamishra30&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -196,23 +279,23 @@ const aditya = {
 
 <div align="center">
 
-[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adityamishra30&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adityamishra30&bg_color=1a1b27&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=302b63&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-### ✍️ Random Dev Quote
+## ✍️ Dev Quote of the Day
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <div align="center">
 
@@ -220,11 +303,11 @@ const aditya = {
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityamishra30)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/adityamishra30)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23B92B27.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://codechef.com/users/adityamishra30)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityame222@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityame222@gmail.com)
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=adityamishra30&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=adityamishra30&icon=5&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -232,10 +315,12 @@ const aditya = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&animation=fadeIn" width="100%" />
 
-**⭐ If you found something useful here, consider starring my repos!**
+**⭐ Found something useful? Consider starring my repos — it means a lot!**
 
-*Designed & built with ❤️ by **Aditya Narayan Mishra***
+<br/>
+
+*Crafted with ❤️ by **Aditya Narayan Mishra***
 
 </div>
