@@ -39,7 +39,7 @@ const aditya = {
   dsa        : {
     leetcode : "1700+ Rating",
     codechef : "2 ⭐",
-    solved   : "500+ Problems",
+    solved   : "700+ Problems",
   },
 
   exploring  : [
